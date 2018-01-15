@@ -10,7 +10,7 @@ return [
     'stream_url'   => 'http://109.74.196.48:8251/stream',
     'icecast_url'  => 'http://109.74.196.48:8251/',
 
-    'analytics'    => 'UA-XXXXXXXX-X',
+    'analytics'    => 'UA-111822757',
 
     'customizable' => false, // Set this to true if you want to allow users to change the visualizer settings like in the demo page.
 ];
